@@ -77,7 +77,7 @@ Investigar padrões e relações entre fatores socioeconômicos, familiares, edu
 ## Observações
 
 * A base de dados é de domínio público e foi adaptada para fins educacionais.
-* O projeto foi desenvolvido como parte das atividades da disciplina de Estatística (UFF, 2024).
+* O projeto foi desenvolvido como parte das atividades da disciplina de  Introdução a Estatística (UFF, 2024).
 * Para reproduzir os resultados, basta rodar o script `script_analise.R` com a base fornecida.
 
 ---
